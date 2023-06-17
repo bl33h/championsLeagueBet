@@ -20,7 +20,7 @@ The main objective of the project is to analyze the provided data and answer the
 
 <p align="center">
   <br>
-  <img src="https://i.imgur.com/p2WA5X7.jpeg" alt="erd" width="500">
+  <img src="https://i.imgur.com/p2WA5X7.jpeg" alt="erd" width="600">
   <br>
 </p>
 
