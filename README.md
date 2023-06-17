@@ -5,7 +5,7 @@ The main objective of the project is to analyze the provided data and answer the
 
 <p align="center">
   <br>
-  <img src="https://media.tenor.com/uGJlZtw8MXIAAAAC/uefa-champions-league.gif" alt="pic" width="400">
+  <img src="https://media.tenor.com/uGJlZtw8MXIAAAAC/uefa-champions-league.gif" alt="pic" width="600">
   <br>
 </p>
 <p align="center" >
@@ -38,7 +38,7 @@ According to the results obtained from 63% of the queries (10/16), the team I wo
 
 <p align="center">
   <br>
-  <img src="https://3.bp.blogspot.com/-SuG29vc5mzI/UwB9koNY3pI/AAAAAAAAFfY/Smu23F9C1Lw/s1600/Iniesta+against+Rayo+Vallecano.jpg" alt="pic" width="200">
+  <img src="https://3.bp.blogspot.com/-SuG29vc5mzI/UwB9koNY3pI/AAAAAAAAFfY/Smu23F9C1Lw/s1600/Iniesta+against+Rayo+Vallecano.jpg" alt="pic" width="400">
   <br>
 </p>
 
