@@ -52,5 +52,20 @@ According to the results obtained from 63% of the queries (10/16), the team I wo
 </p>
 
 ## How To Use
+To clone and run this application, you'll need [Git](https://git-scm.com), [Python](https://www.python.org/downloads/) and [psql](https://www.postgresql.org/download/) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/bl33h/temperatureConverter
+
+# Restore the database in the psql cmd 
+$ CREATE DATABASE champions
+
+# Back to your normal command line
+$ pg_restore -U <username> -d <champions> <path_to_dump_file> # The username is usually postgres and for the dump file path you can right click on it and copy as path
+
+# Run the graphic queries
+$ python championsleaguebet_graphics.py
+```
 
 
