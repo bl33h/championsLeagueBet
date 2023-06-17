@@ -18,10 +18,10 @@ The main objective of the project is to analyze the provided data and answer the
 ## Files
 
 - src: the file that implements de solution.
-  • database: The .dump file is a backup file of the PostgreSQL database, containing the structure of the database, such as tables, indexes, and constraints, along with the stored data.
-  • graphics: This Python script connects to the PostgreSQL database, executes SQL queries, and generates graphics to analyze team performance and average goals in the Champions League.
-  • queries & mods: An SQL file that contains a collection of statements designed to create a schema specifically for managing and analyzing football match data.
-  • script: This Python file creates a PostgreSQL database and imports data from CSV files into separate tables. It handles column renaming, special characters, empty cells, and excludes     rows with ".xml" files.
+- - database: The .dump file is a backup file of the PostgreSQL database, containing the structure of the database, such as tables, indexes, and constraints, along with the stored data.
+- - graphics: This Python script connects to the PostgreSQL database, executes SQL queries, and generates graphics to analyze team performance and average goals in the Champions League.
+- - queries & mods: An SQL file that contains a collection of statements designed to create a schema specifically for managing and analyzing football match data.
+- - script: This Python file creates a PostgreSQL database and imports data from CSV files into separate tables. It handles column renaming, special characters, empty cells, and excludes rows with ".xml" files.
     
 ## Features
 
