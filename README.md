@@ -10,9 +10,18 @@ The main objective of the project is to analyze the provided data and answer the
 </p>
 <p align="center" >
   <a href="#Files">Files</a> •
+  <a href="#entity-relationship-diagram">ERD</a> •
   <a href="#features">Features</a> •
   <a href="#the-team-i-would-bet-on">The team I would bet on</a> •
   <a href="#how-to-use">How To Use</a> 
+</p>
+
+## Entity Relationship Diagram
+
+<p align="center">
+  <br>
+  <img src="https://i.imgur.com/p2WA5X7.jpeg" alt="erd" width="500">
+  <br>
 </p>
 
 ## Files
